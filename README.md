@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @jarrettsmo
-- 👀 I’m currently in college studying to become a software engineer!
-- 🌱 I’m currently developing apps using HTML/CSS/JavaScript on macOS Ventura.
+- 👋 Hi, I’m @jarrettsmo!
+- 👀 I’m a Technical Writer and Trainer who also works in Telecommunications and Software Development.
+- 🌱 I streamline and document processes, as well as develop custom apps using the following technologies:
+        - HTML
+        - CSS
+        - JavaScript/Nodes.js
+        - PHP
+        - XAMPP/VS Code
+        - macOS/Windows
 - 📫 You can reach me at write2jarrett@gmail.com
 
 <!---
